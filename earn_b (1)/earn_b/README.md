@@ -15,7 +15,6 @@ A job search app built with Flutter and Dart, offering a seamless experience for
 - **Authentication:** Firebase Authentication
 - **IDE:** Android Studio
 
-
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
